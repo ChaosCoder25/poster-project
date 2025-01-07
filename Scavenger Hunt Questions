@@ -6,3 +6,9 @@ answer: Testing websites on multiple browsers is important because different bro
 
 What are some common methods developers use to handle browser compatibility issues in their code?
 answer: To handle browser compatibility issues, developers use tools like Modernizr, write fallback code, use CSS prefixes, and apply responsive design to make sure the website works on all devices.
+what happens if a browser can't support an Iot dashboard or app?  
+answer: Dashboard Fails to Load
+how do web serves and the programming behind websites affect how well browsers work?
+answer: File Optimization
+how do newer browser versions make websites run better or faster?
+answer: Enhanced Rendering Performance
