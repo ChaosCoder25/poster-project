@@ -18,16 +18,10 @@ Imagine visiting a website that doesn’t load correctly on your browser. For ex
 Here are some helpful resources for understanding and solving browser limitations:
 
 - **Articles:**  
-  - [MDN Web Docs: Browser Compatibility](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction)  
-  - [Can I Use](https://caniuse.com/) - Check browser support for features.
 
 - **Videos:**  
-  - [Web Accessibility and Cross-Browser Testing](https://www.youtube.com/watch?v=jh8pJof2z-Q)  
 
 - **Tools:**  
-  - [BrowserStack](https://www.browserstack.com/) - Test your website on different browsers.  
-  - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Audit performance and compatibility issues.
 
 
 ## Diagrams and Images
-Any diagrams or images used in the project have been uploaded to this repository under the `images` folder. Use these visuals to understand browser limitations and solutions better.
