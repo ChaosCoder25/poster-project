@@ -1,0 +1,8 @@
+The __________ attribute is used to make sure a website works on mobile devices.
+answer: viewport
+
+Explain why it’s important to test websites on multiple browsers before launching.
+answer: Testing websites on multiple browsers is important because different browsers can show websites differently. It helps developers make sure users have a consistent experience.
+
+What are some common methods developers use to handle browser compatibility issues in their code?
+answer: To handle browser compatibility issues, developers use tools like Modernizr, write fallback code, use CSS prefixes, and apply responsive design to make sure the website works on all devices.
