@@ -17,11 +17,12 @@ Imagine visiting a website that doesn’t load correctly on your browser. For ex
 ## Resources
 Here are some helpful resources for understanding and solving browser limitations:
 
-- **Articles:**  
+ **Articles:**  
 
-- **Videos:**  
+ **Videos:**  
 
-- **Tools:**  
-
+ **Tools:**  
+-Chatgpt
+-Googe Chrome 
 
 ## Diagrams and Images
