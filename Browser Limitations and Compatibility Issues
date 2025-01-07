@@ -1,0 +1,33 @@
+Browser Limitations and Compatibility Issues
+
+## About
+Browsers let us use the internet, but they don’t all work the same way.
+They might handle code, features, or security rules differently.
+Developers need to make sure their apps work well on all browsers so users have a good experience.
+
+
+## Real-World Example
+Imagine visiting a website that doesn’t load correctly on your browser. For example:
+
+- A button might not respond because the browser doesn’t support the latest JavaScript feature.
+- A layout might break due to CSS properties unsupported by older browsers.
+- A video might fail to play because the browser doesn’t support the required codec.
+
+
+## Resources
+Here are some helpful resources for understanding and solving browser limitations:
+
+- **Articles:**  
+  - [MDN Web Docs: Browser Compatibility](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction)  
+  - [Can I Use](https://caniuse.com/) - Check browser support for features.
+
+- **Videos:**  
+  - [Web Accessibility and Cross-Browser Testing](https://www.youtube.com/watch?v=jh8pJof2z-Q)  
+
+- **Tools:**  
+  - [BrowserStack](https://www.browserstack.com/) - Test your website on different browsers.  
+  - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Audit performance and compatibility issues.
+
+
+## Diagrams and Images
+Any diagrams or images used in the project have been uploaded to this repository under the `images` folder. Use these visuals to understand browser limitations and solutions better.
