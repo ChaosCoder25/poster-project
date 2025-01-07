@@ -17,8 +17,9 @@ Imagine visiting a website that doesn’t load correctly on your browser. For ex
 ## Resources
 Here are some helpful resources for understanding and solving browser limitations:
 
- **Articles:**  
-
+ **Articles:**
+https://www.lambdatest.com/blog/top-browser-compatibility-pain-points-for-developers/
+https://www.browserstack.com/guide/common-cross-browser-compatibility-issues
  **Videos:**  
 
  **Tools:**  
