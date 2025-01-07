@@ -22,8 +22,9 @@ Here are some helpful resources for understanding and solving browser limitation
  **Videos:**  
 
  **Tools:**  
--Chatgpt
--Googe Chrome 
+-canva flowchart: https://www.canva.com/online-whiteboard/flowcharts/
+-Chatgpt: https://chatgpt.com/
+-Googe Chrome: https://www.google.com/chrome/
 
 ## Diagrams and Images
 ![image1](https://github.com/user-attachments/assets/f74f572f-3d29-4039-82a0-f406f3e575d5)
