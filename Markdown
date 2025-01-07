@@ -26,3 +26,6 @@ Here are some helpful resources for understanding and solving browser limitation
 -Googe Chrome 
 
 ## Diagrams and Images
+![image1](https://github.com/user-attachments/assets/f74f572f-3d29-4039-82a0-f406f3e575d5)
+![image](https://github.com/user-attachments/assets/a5a27751-68f7-4dc4-a255-4be1488d522f)
+![image](https://github.com/user-attachments/assets/5b8027f7-e7aa-42ac-a182-038c009d7896)
