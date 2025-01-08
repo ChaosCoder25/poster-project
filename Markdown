@@ -29,13 +29,13 @@ https://www.browserstack.com/guide/common-cross-browser-compatibility-issues
 ## Diagrams and Images
 
 ## questions 
-1.
+1. How do web servers and the programming behind websites affect how well browsers work?
 
-2.
+2. What happens if a browser cant cupport an IoT dashboard or app?
 
-3.
+3.How do slow internet speed or big files make browers problems worse?
 
-4.
+4. How do newer browser versions make websites run better or faster?
 
 
 
