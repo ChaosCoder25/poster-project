@@ -33,13 +33,4 @@ https://www.browserstack.com/guide/common-cross-browser-compatibility-issues
 ![image](https://github.com/user-attachments/assets/5b8027f7-e7aa-42ac-a182-038c009d7896)
 
 
-## Scavenger Hunt Questions
 
-what happens if a browser can't support an Iot dashboard or app?  
-answer: Dashboard Fails to Load
-
-how do web serves and the programming behind websites affect how well browsers work?
-answer: File Optimization
-
-how do newer browser versions make websites run better or faster?
-answer: Enhanced Rendering Performance
