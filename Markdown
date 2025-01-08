@@ -28,5 +28,14 @@ https://www.browserstack.com/guide/common-cross-browser-compatibility-issues
 
 ## Diagrams and Images
 
+## questions 
+1.
+
+2.
+
+3.
+
+4.
+
 
 
