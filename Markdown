@@ -20,7 +20,6 @@ Here are some helpful resources for understanding and solving browser limitation
  **Articles:**
 https://www.lambdatest.com/blog/top-browser-compatibility-pain-points-for-developers/
 https://www.browserstack.com/guide/common-cross-browser-compatibility-issues
- **Videos:**  
 
  **Tools:**  
 -canva flowchart: https://www.canva.com/online-whiteboard/flowcharts/
